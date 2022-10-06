@@ -1,5 +1,5 @@
 <p align="center">
-	<img alt="logo" src="/src/main/resources/static/backend/images/login/logo.png" height="50px" width="50px">
+	<img alt="logo" src="https://avatars.githubusercontent.com/u/56633317?s=48&v=4" height="50px" width="50px">
 </p>
 
 # 👋 Hi, I’m @solitude325
