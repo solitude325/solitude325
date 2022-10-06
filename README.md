@@ -39,6 +39,8 @@ Welcome, I'm a Java ![](https://img.shields.io/badge/Code-Java-informational?sty
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=solitude325&theme=dark&hide=contribs,issues" />
 </a>
 
-***欲买桂花同载酒, 终不似, 少年游***
+<p align="center">
+***✨欲买桂花同载酒, 终不似, 少年游✨***
+</p>
 
 ![wallhaven-ymoqgl_1920x1080.png](https://s2.loli.net/2022/10/07/crs4V6pWuGNqai8.png)
