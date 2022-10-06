@@ -2,6 +2,11 @@
 	<img alt="logo" src="https://avatars.githubusercontent.com/u/56633317?s=48&v=4" height="50px" width="50px">
 </p>
 
+<p align="center">
+✨欲买桂花同载酒, 终不似, 少年游✨
+</p>
+
+
 # 👋 Hi, I’m @solitude325
 
 Welcome, I'm a Java ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Anchor&logoColor=green&color=2bbc8a) developer, with some harmonica foundation
@@ -39,14 +44,7 @@ Welcome, I'm a Java ![](https://img.shields.io/badge/Code-Java-informational?sty
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=solitude325&theme=dark&hide=contribs,issues" />
 </a>
 
-
-
-
-
-
-
-<p align="center">
-✨欲买桂花同载酒, 终不似, 少年游✨
-</p>
-
+<br>
+<br>
+<br>
 ![wallhaven-ymoqgl_1920x1080.png](https://s2.loli.net/2022/10/07/crs4V6pWuGNqai8.png)
