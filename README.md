@@ -41,7 +41,7 @@ Welcome, I'm a Java ![](https://img.shields.io/badge/Code-Java-informational?sty
 </a>
 
 <a href="https://github.com/solitude325/solitude325">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=solitude325&theme=dark&hide=contribs,issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=solitude325&theme=dark&hide=contribs" />
 </a>
 
 <br>
